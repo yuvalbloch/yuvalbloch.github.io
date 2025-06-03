@@ -1,0 +1,64 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "Acadmic Portfolio"
+theme = "ananke"
+
+[params]
+  author = "yuval bloch"
+  description = "Welcome to my academic portfolio!"
+  custom_css = ["custom.css"]
+  mainSections = ["posts"]
+  ananke.show_recent_posts = true
+
+
+
+
+[menu]
+ [[menu.main]]
+  name = "Blog"
+  url = "/posts/"
+  weight = 5
+
+
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Presentations"
+    url = "/presentations/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 5
+
+[params.ananke.social.follow]
+  new_window_icon = true
+  networks = ["github", "linkedin"]
+
+[params.ananke.social.github]
+  username = "your-github-username"
+  profilelink = "https://github.com/your-github-username"
+  rel = "me noopener"
+
+[params.ananke.social.linkedin]
+  username = "your-linkedin-username"
+  profilelink = "https://linkedin.com/in/your-linkedin-username"
+  rel = "noopener"
+
+[params.ananke.social.email]
+  profilelink = "mailto:youremail@example.com"
+

@@ -1,0 +1,60 @@
+
+
+/* Shrink menu text and padding */
+.navbar .navbar-item {
+  color: #333 !important;
+  font-size: 0.9rem !important;
+  padding: 0.2rem 0.75rem !important;
+}
+
+/* Shrink the logo image */
+.navbar-brand img {
+  max-height: 20px !important;
+}
+
+/* Optional: Style Blog/Home buttons */
+.navbar .navbar-item.is-button,
+.navbar .navbar-item.button-like {
+  background-color: #ffa000 !important;
+  border-radius: 4px;
+  color: white !important;
+  margin-left: 6px !important;
+}
+.navbar .navbar-item.is-button:hover {
+  background-color: #ff8f00 !important;
+}
+/* Shrink navbar and logo in Ananke via Hugo Pipes */
+/* Very high specificity override */
+/* Shrink the black header container */
+header > div.pb3-m.pb6-l.bg-black {
+  padding-top: 0.5rem !important;
+  padding-bottom: 0.5rem !important;
+}
+
+/* Shrink the navigation bar inside the header */
+header > div > nav.pv3.ph3.ph4-ns {
+  padding-top: 0.3rem !important;
+  padding-bottom: 0.3rem !important;
+}
+
+/* Shrink the logo/title */
+header a.f3.fw2 {
+  font-size: 1.5rem !important;
+}
+
+/* Shrink menu item font & spacing */
+header nav ul.pl0 li.list {
+  padding-right: 0.5rem !important;
+}
+header nav ul.pl0 li.list a {
+  font-size: 0.9rem !important;
+}
+
+/* Remove default spacing around your Markdown image */
+.page-image img,
+.featured-image img,
+header > div img {
+  padding: 0 !important;
+  margin: 0 auto !important; /* center if you want */
+  max-width: 200px; /* adjust size */
+}
