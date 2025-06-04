@@ -1,54 +1,23 @@
 
 
 /* Shrink menu text and padding */
-.navbar .navbar-item {
-  color: #333 !important;
-  font-size: 0.9rem !important;
-  padding: 0.2rem 0.75rem !important;
-}
+
 
 /* Shrink the logo image */
 .navbar-brand img {
-  max-height: 20px !important;
+  max-height: 40px !important;
 }
 
-/* Optional: Style Blog/Home buttons */
-.navbar .navbar-item.is-button,
-.navbar .navbar-item.button-like {
-  background-color: #ffa000 !important;
-  border-radius: 4px;
-  color: white !important;
-  margin-left: 6px !important;
-}
-.navbar .navbar-item.is-button:hover {
-  background-color: #ff8f00 !important;
-}
+
+
 /* Shrink navbar and logo in Ananke via Hugo Pipes */
 /* Very high specificity override */
 /* Shrink the black header container */
-header > div.pb3-m.pb6-l.bg-black {
-  padding-top: 0.5rem !important;
-  padding-bottom: 0.5rem !important;
-}
 
-/* Shrink the navigation bar inside the header */
-header > div > nav.pv3.ph3.ph4-ns {
-  padding-top: 0.3rem !important;
-  padding-bottom: 0.3rem !important;
-}
 
-/* Shrink the logo/title */
-header a.f3.fw2 {
-  font-size: 1.5rem !important;
-}
 
-/* Shrink menu item font & spacing */
-header nav ul.pl0 li.list {
-  padding-right: 0.5rem !important;
-}
-header nav ul.pl0 li.list a {
-  font-size: 0.9rem !important;
-}
+
+
 
 /* Remove default spacing around your Markdown image */
 .page-image img,
@@ -58,3 +27,76 @@ header > div img {
   margin: 0 auto !important; /* center if you want */
   max-width: 200px; /* adjust size */
 }
+
+/* Shrink the header even when featured_image is used */
+body:not(.homepage)header.cover {
+  height: 400px !important;
+  background-color: aliceblue !important;
+  box-shadow: none !important;
+
+
+}
+body.homepage header.cover .bg-black-60 {
+  height: 100px !important;
+}
+
+body:not(.homepage) header.cover .bg-black-60 {
+  height: 400px !important;
+}
+
+
+  body.homepage {
+    background: url('/assets/image_for_top1.png') no-repeat center top;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+  }
+  /* Homepage: background on <body> */
+body.homepage {
+  background-position: center 22% !important;
+}
+
+/* Other pages: background on <header> */
+header.cover {
+  background-position: center 10% !important;
+}
+/* Homepage: background on <body> */
+body.homepage {
+  background-position: center 10% !important;
+}
+
+/* Other pages: background on <header> */
+header.cover {
+  background-position: center 10% !important;
+}
+
+
+/* Widen content on all pages */
+/* Widen content ONLY on non-home pages */
+body:not(.homepage) main,
+body:not(.homepage) .section,
+body:not(.homepage) .article,
+body:not(.homepage) .content,
+body:not(.homepage) .nested-copy-line-height,
+body:not(.homepage) .measure-wide {
+  max-width: 1200px !important;
+  width: 100% !important;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Left-align text on non-home pages */
+body:not(.homepage) .center,
+body:not(.homepage) .tc,
+body:not(.homepage) .measure,
+body:not(.homepage) .measure-wide,
+body:not(.homepage) .nested-copy-line-height {
+  text-align: left !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+

@@ -1,39 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>yuval bloch on Acadmic Portfolio</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in yuval bloch on Acadmic Portfolio</description>
+    <title>  on Acadmic Portfolio</title>
+    <link>http://yuvalbloch.com/</link>
+    <description>Recent content in   on Acadmic Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 03 Jun 2025 12:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/first-post/</link>
-      <pubDate>Tue, 03 Jun 2025 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/first-post/</guid>
-      <description>&lt;h1 id=&#34;yuval-bloch&#34;&gt;Yuval Bloch&lt;/h1&gt;&#xA;&lt;p&gt;computational biology&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/assets/me.jpeg&#34; alt=&#34;Me&#34;&gt;&lt;/p&gt;</description>
-    </item>
+    <atom:link href="http://yuvalbloch.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why Life Science? Why This Blog? Why Now?</title>
-      <link>http://localhost:1313/blog/intro/</link>
+      <link>http://yuvalbloch.com/blog/intro/</link>
       <pubDate>Tue, 03 Jun 2025 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/intro/</guid>
+      <guid>http://yuvalbloch.com/blog/intro/</guid>
       <description>&lt;p&gt;As a child, Disney&amp;rsquo;s movie Fantasia captivated me, especially &amp;ldquo;The Rite of Spring.&amp;rdquo;* Igor Stravinsky, the composer, originally conceived this ballet as an expression of primitive life, celebrating the intricate beauty of ancient rituals. Disney, however, reinterpreted it more literally: a cosmic dance of Earth&amp;rsquo;s violent birth, the silent lightning strike of first life, and evolution&amp;rsquo;s slow crescendo into dinosaurs. That vision—&lt;strong&gt;life-blazing order out of chaos&lt;/strong&gt;—never let go.&lt;/p&gt;&#xA;&lt;p&gt;Today, with fear and hate spreading and unsettling sounds from the border kept as a constant reminder, I wrestle with doubt: &lt;em&gt;Is studying biology a luxury while the world burns? Should I trade the microscope for the megaphone?&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/index.md/</link>
+      <link>http://yuvalbloch.com/index.md/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/index.md/</guid>
-      <description>&lt;h1 id=&#34;yuval-bloch&#34;&gt;yuval bloch&lt;/h1&gt;&#xA;&lt;p&gt;computational biology&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/assets/me.jpeg&#34; alt=&#34;Me&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://yuvalbloch.com/index.md/</guid>
+      <description>&lt;h1 id=&#34;yuval-bloch&#34;&gt;yuval bloch&lt;/h1&gt;&#xA;&lt;p&gt;computational biology&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://yuvalbloch.com/assets/me.jpeg&#34; alt=&#34;Me&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/untitled/</link>
+      <link>http://yuvalbloch.com/untitled/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/untitled/</guid>
+      <guid>http://yuvalbloch.com/untitled/</guid>
       <description></description>
     </item>
   </channel>

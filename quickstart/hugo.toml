@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "http://yuvalbloch.com/"
 languageCode = "en-us"
 title = "Acadmic Portfolio"
 theme = "ananke"
@@ -9,6 +9,12 @@ theme = "ananke"
   custom_css = ["custom.css"]
   mainSections = ["posts"]
   ananke.show_recent_posts = true
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 
 
@@ -51,14 +57,12 @@ theme = "ananke"
 
 [params.ananke.social.github]
   username = "your-github-username"
-  profilelink = "https://github.com/your-github-username"
+  profilelink = "https://github.com/yuvalbloch"
   rel = "me noopener"
 
 [params.ananke.social.linkedin]
   username = "your-linkedin-username"
-  profilelink = "https://linkedin.com/in/your-linkedin-username"
+  profilelink = "https://linkedin.com/in/yuval-bloch191041192/"
   rel = "noopener"
 
-[params.ananke.social.email]
-  profilelink = "mailto:youremail@example.com"
 

@@ -34,7 +34,7 @@
     {{ with .OutputFormats.Get "RSS" }}
       <link href="{{ .RelPermalink }}" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" />
       <link href="{{ .RelPermalink }}" rel="feed" type="application/rss+xml" title="{{ $.Site.Title }}" />
-      {{ end }}
+    {{ end }}
     {{ end }}
 
     {{ if .Params.canonicalUrl }}
@@ -51,14 +51,11 @@
     {{ if hugo.IsProduction }}
       {{ template "_internal/google_analytics.html" . }}
     {{ end }}
-    {{ range .Site.Params.custom_css }}
-  <link rel="stylesheet" href="{{ . | relURL }}">
-{{ end }}
-	{{ block "head" . }}{{ partials.Include "head-additions.html" . }}{{ end }}
+    {{ block "head" . }}{{ partials.Include "head-additions.html" . }}{{ end }}
   </head>
 
   {{- $environment := hugo.Environment | compare.Default "production" -}}
-  <body class="ma0 {{ $.Param "body_classes"  | compare.Default "avenir bg-near-white"}} {{ $environment }}">
+  <body class="{{ if .IsHome }}homepage {{ end }}ma0 {{ $.Param "body_classes"  | compare.Default "avenir bg-near-white"}} {{ $environment }}">
 
     {{ block "header" . }}{{ partials.Include "site-header.html" .}}{{ end }}
     <main class="pb7" role="main">

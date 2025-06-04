@@ -2,7 +2,7 @@
 title: "Why Life Science? Why This Blog? Why Now?"
 date: 2025-06-03T12:00:00
 draft: false
-featured_image: "/images/first-post-header.jpg"
+featured_image: '/assets/rite_of_spring.jpeg'
 ---
 
 
