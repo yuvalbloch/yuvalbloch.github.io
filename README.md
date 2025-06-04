@@ -1,7 +1,4 @@
-# yuvalbloch
-Here’s a clean, professional **GitHub Pages Deployment Guide** you can include in your `README.md` so you won’t forget how to update your Hugo site:
 
----
 
 ## 🚀 Publishing Your Hugo Site to GitHub Pages
 
