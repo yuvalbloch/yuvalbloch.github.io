@@ -2,22 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://yuvalbloch.com/</loc>
+    <lastmod>2025-06-03T18:31:05+03:00</lastmod>
+  </url><url>
     <loc>http://yuvalbloch.com/about/</loc>
     <lastmod>2025-06-03T18:31:05+03:00</lastmod>
   </url><url>
     <loc>http://yuvalbloch.com/presentations/</loc>
     <lastmod>2025-06-03T18:31:05+03:00</lastmod>
   </url><url>
-    <loc>http://yuvalbloch.com/</loc>
-    <lastmod>2025-06-03T18:31:05+03:00</lastmod>
-  </url><url>
     <loc>http://yuvalbloch.com/blog/</loc>
-    <lastmod>2025-06-03T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://yuvalbloch.com/posts/first-post/</loc>
-    <lastmod>2025-06-03T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://yuvalbloch.com/posts/</loc>
     <lastmod>2025-06-03T12:00:00+00:00</lastmod>
   </url><url>
     <loc>http://yuvalbloch.com/blog/intro/</loc>
