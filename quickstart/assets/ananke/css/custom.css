@@ -88,3 +88,19 @@ body:not(.homepage) .nested-copy-line-height {
 .card-text {
   padding: 1rem !important;
 }
+
+
+/* Widen post content on single post pages */
+.single article,
+.single .content,
+.single .nested-copy-line-height,
+.single .measure,
+.single .measure-wide {
+  max-width: 100% !important;
+  width: 100% !important;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  text-align: left;
+}
