@@ -58,13 +58,14 @@ theme = "ananke"
   networks = ["github", "linkedin"]
 
 [params.ananke.social.github]
-  username = "your-github-username"
+  username = "yuvalbloch"
   profilelink = "https://github.com/yuvalbloch"
   rel = "me noopener"
 
 [params.ananke.social.linkedin]
-  username = "your-linkedin-username"
-  profilelink = "https://linkedin.com/in/yuval-bloch191041192/"
+  username = "yuval-bloch-191041192"
+  profilelink = "https://www.linkedin.com/in/yuval-bloch-191041192/"
   rel = "noopener"
+
 
 

@@ -49,8 +49,10 @@ main.main-content,
   ## Yuval Bloch
 
   I'm a **computational ecologist** studying the dynamics of complex systems in nature.  
-  My work combines **ecology**, **computer science**, and **network theory**.
-
+  My work combines **ecology**, **computer science**, and **epidemiology**.
+  
+ **Email**: yuvalblo@post.bgu.ac.il
+ 
   [Learn more →](/about)
 </div>
 
