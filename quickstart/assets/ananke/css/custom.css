@@ -129,3 +129,10 @@ body:not(.homepage) .nested-copy-line-height {
     padding-right: 0 !important;
   }
 }
+
+@media screen and (max-width: 768px) {
+  header .lh-title,
+  header .measure-wide-l {
+    display: none !important;
+  }
+}
