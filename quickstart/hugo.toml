@@ -9,6 +9,8 @@ theme = "ananke"
   custom_css = ["custom.css"]
   mainSections = ["posts"]
   ananke.show_recent_posts = true
+  summaryLength = 10  # reduce to 25 words instead of 70
+
 
 
 [markup]

@@ -1,8 +1,10 @@
 ---
-title: "Why Life Science? Why This Blog? Why Now?"
+title: Why Life Science? Why This Blog? Why Now?
 date: 2025-06-03T12:00:00
 draft: false
-featured_image: '/assets/rite_of_spring.jpeg'
+featured_image: /assets/rite_of_spring.jpeg
+description: "Here lies the power of life science: it doesn't promise a kind universe. Instead, it reveals how beauty and resilience erupt  within  the storm."
+omit_header_text: true
 ---
 
 
