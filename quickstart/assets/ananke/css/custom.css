@@ -104,3 +104,24 @@ body:not(.homepage) .nested-copy-line-height {
   padding-right: 1rem;
   text-align: left;
 }
+
+/* Make post content full width and easy to read on small screens */
+@media screen and (max-width: 768px) {
+  .nested-copy-line-height,
+  .post-content,
+  .content {
+    max-width: 100% !important;
+    width: 100% !important;
+    padding: 1rem !important;
+    margin: 0 auto !important;
+    font-size: 1.1rem;
+    line-height: 1.6;
+  }
+
+  /* Optional: Remove side padding if using flex layout */
+  .pl4-l,
+  .pr4-l {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+}
