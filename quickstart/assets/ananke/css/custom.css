@@ -136,3 +136,7 @@ body:not(.homepage) .nested-copy-line-height {
     display: none !important;
   }
 }
+  header .lh-title,
+  header .measure-wide-l {
+    display: none !important;
+  }

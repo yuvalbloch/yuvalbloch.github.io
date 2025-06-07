@@ -1,7 +1,7 @@
 ---
 title: " "
 draft: false
-
+omit_header_text: true
 
 cascade:
   params:
