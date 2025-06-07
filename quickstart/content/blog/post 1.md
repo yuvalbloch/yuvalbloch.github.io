@@ -17,7 +17,7 @@ What patterns do you notice? How might they form? How does each branch of a tree
 
 These questions lead us into today’s journey: the subtle, astonishing properties that define living systems.
 
----
+
 
 ## A Simple Exercise in Complexity
 
@@ -44,7 +44,7 @@ After ten rows, you’ll see a sharp triangular shape formed from smaller repeat
 
 What’s remarkable is this: **each square only "knows" about its immediate neighbors.** There’s no central control. No blueprint. And yet—rich structure emerges from minimal rules.
 
----
+
 
 ## Self-Organization & Fractals: Nature's Quiet Blueprint
 
@@ -56,7 +56,7 @@ A branch mimics the shape of the whole tree. A fern leaf resembles the entire pl
 
 With nothing more than a grid and a few simple rules, you’ve just recreated core features of living systems: **complexity, self-organization, and scale**.
 
----
+
 
 ## The Edge of Predictability: Life's Beautiful Chaos
 
@@ -80,7 +80,7 @@ No. Even though the system is fully deterministic, there's no shortcut. The only
 
 Change a single square at the beginning, and the whole system can evolve differently. Sound familiar? That’s life.
 
----
+
 
 ## Life at the Edge of Chaos
 
@@ -93,7 +93,7 @@ Life unfolds from countless fragile, unpredictable interactions.
 
 The inability to perfectly predict outcomes might feel unsettling. In fact, this tension between fate and uncertainty our wisdom and our limited abilty to predict the outcom of our did is at the heart of most mythologies.
 
----
+
 
 ## Even Legends Couldn't Predict the Future
 
@@ -104,7 +104,7 @@ The inability to perfectly predict outcomes might feel unsettling. In fact, this
 - In **Antigone**, just as people praise human brilliance in the beautiful Ode to Men (See page 15 in this [translation](https://chs.harvard.edu/wp-content/uploads/2020/11/Antigone-Master-Translation.pdf)). The tragedy begins to unravel—showing that wisdom alone can't control fate.
     
 
----
+
 
 ## The Freedom of the Unpredictable
 
@@ -128,7 +128,7 @@ This doesn't mean we abandon reason or effort. It means we acknowledge the truth
 
 And in that surprise lies the beauty—and the potential—of being alive.
 
----
+
 
 ## A Final Note: Love Beyond Chemistry
 
@@ -146,7 +146,7 @@ Yes, love begins with molecules. But it grows through interaction, memory, conte
 We know it’s more than a chemical spike. We live it.  
 **Love is real.**
 
----
+
 
 ## Looking Ahead
 
