@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Acadmic Portfolio</title>
-    <link>http://yuvalbloch.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Acadmic Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://yuvalbloch.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Complex-Systems</title>
-      <link>http://yuvalbloch.com/tags/complex-systems/</link>
+      <link>http://localhost:1313/tags/complex-systems/</link>
       <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://yuvalbloch.com/tags/complex-systems/</guid>
+      <guid>http://localhost:1313/tags/complex-systems/</guid>
       <description></description>
     </item>
     <item>
       <title>Emergence</title>
-      <link>http://yuvalbloch.com/tags/emergence/</link>
+      <link>http://localhost:1313/tags/emergence/</link>
       <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://yuvalbloch.com/tags/emergence/</guid>
+      <guid>http://localhost:1313/tags/emergence/</guid>
       <description></description>
     </item>
     <item>
       <title>Life</title>
-      <link>http://yuvalbloch.com/tags/life/</link>
+      <link>http://localhost:1313/tags/life/</link>
       <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://yuvalbloch.com/tags/life/</guid>
+      <guid>http://localhost:1313/tags/life/</guid>
       <description></description>
     </item>
     <item>
       <title>Love</title>
-      <link>http://yuvalbloch.com/tags/love/</link>
+      <link>http://localhost:1313/tags/love/</link>
       <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://yuvalbloch.com/tags/love/</guid>
+      <guid>http://localhost:1313/tags/love/</guid>
       <description></description>
     </item>
     <item>
       <title>Philosophy</title>
-      <link>http://yuvalbloch.com/tags/philosophy/</link>
+      <link>http://localhost:1313/tags/philosophy/</link>
       <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://yuvalbloch.com/tags/philosophy/</guid>
+      <guid>http://localhost:1313/tags/philosophy/</guid>
       <description></description>
     </item>
     <item>
       <title>Science</title>
-      <link>http://yuvalbloch.com/tags/science/</link>
+      <link>http://localhost:1313/tags/science/</link>
       <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://yuvalbloch.com/tags/science/</guid>
+      <guid>http://localhost:1313/tags/science/</guid>
       <description></description>
     </item>
     <item>
       <title>Unpredictability</title>
-      <link>http://yuvalbloch.com/tags/unpredictability/</link>
+      <link>http://localhost:1313/tags/unpredictability/</link>
       <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://yuvalbloch.com/tags/unpredictability/</guid>
+      <guid>http://localhost:1313/tags/unpredictability/</guid>
       <description></description>
     </item>
   </channel>
