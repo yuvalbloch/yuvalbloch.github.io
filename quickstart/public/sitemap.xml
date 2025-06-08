@@ -2,54 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://yuvalbloch.com/</loc>
     <lastmod>2025-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>http://yuvalbloch.com/blog/</loc>
     <lastmod>2025-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/complex-systems/</loc>
+    <loc>http://yuvalbloch.com/tags/complex-systems/</loc>
     <lastmod>2025-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/emergence/</loc>
+    <loc>http://yuvalbloch.com/tags/emergence/</loc>
     <lastmod>2025-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/life/</loc>
+    <loc>http://yuvalbloch.com/tags/life/</loc>
     <lastmod>2025-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/love/</loc>
+    <loc>http://yuvalbloch.com/tags/love/</loc>
     <lastmod>2025-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/philosophy/</loc>
+    <loc>http://yuvalbloch.com/tags/philosophy/</loc>
     <lastmod>2025-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/science/</loc>
+    <loc>http://yuvalbloch.com/tags/science/</loc>
     <lastmod>2025-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://yuvalbloch.com/tags/</loc>
     <lastmod>2025-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/post-1/</loc>
+    <loc>http://yuvalbloch.com/blog/post-1/</loc>
     <lastmod>2025-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/unpredictability/</loc>
+    <loc>http://yuvalbloch.com/tags/unpredictability/</loc>
     <lastmod>2025-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/research/tick-population-model/</loc>
+    <loc>http://yuvalbloch.com/research/tick-population-model/</loc>
     <lastmod>2025-06-05T18:31:05+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://yuvalbloch.com/about/</loc>
     <lastmod>2025-06-03T18:31:05+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/presentations/</loc>
+    <loc>http://yuvalbloch.com/presentations/</loc>
     <lastmod>2025-06-03T18:31:05+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/research/</loc>
+    <loc>http://yuvalbloch.com/research/</loc>
     <lastmod>2025-06-03T18:31:05+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/intro/</loc>
+    <loc>http://yuvalbloch.com/blog/intro/</loc>
     <lastmod>2025-06-03T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://yuvalbloch.com/categories/</loc>
   </url>
 </urlset>
