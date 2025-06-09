@@ -3,7 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://yuvalbloch.com/</loc>
-    <lastmod>2025-06-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-09T10:00:00+03:00</lastmod>
+  </url><url>
+    <loc>http://yuvalbloch.com/research/senstiviy1/</loc>
+    <lastmod>2025-06-09T10:00:00+03:00</lastmod>
   </url><url>
     <loc>http://yuvalbloch.com/blog/</loc>
     <lastmod>2025-06-06T00:00:00+00:00</lastmod>
@@ -46,6 +49,12 @@
   </url><url>
     <loc>http://yuvalbloch.com/research/</loc>
     <lastmod>2025-06-03T18:31:05+03:00</lastmod>
+  </url><url>
+    <loc>http://yuvalbloch.com/posts/first-post/</loc>
+    <lastmod>2025-06-03T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://yuvalbloch.com/posts/</loc>
+    <lastmod>2025-06-03T12:00:00+00:00</lastmod>
   </url><url>
     <loc>http://yuvalbloch.com/blog/intro/</loc>
     <lastmod>2025-06-03T12:00:00+00:00</lastmod>

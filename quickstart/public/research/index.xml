@@ -6,8 +6,15 @@
     <description>Recent content in Research on Acadmic Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Jun 2025 18:31:05 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 09 Jun 2025 10:00:00 +0300</lastBuildDate>
     <atom:link href="http://yuvalbloch.com/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Finding Viable Parameter Spaces with Sensitivity Analysis</title>
+      <link>http://yuvalbloch.com/research/senstiviy1/</link>
+      <pubDate>Mon, 09 Jun 2025 10:00:00 +0300</pubDate>
+      <guid>http://yuvalbloch.com/research/senstiviy1/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Ecological models often depend on parameters that are difficult to measure precisely. &lt;strong&gt;Sensitivity analysis&lt;/strong&gt; helps us ask: &lt;em&gt;how much do these uncertainties matter?&lt;/em&gt; It allows us to explore:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Which parameters most strongly influence model outcomes&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;What combinations lead to persistence or extinction&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;How robust the system is to changes in key assumptions&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;In this project, I go beyond simply measuring sensitivity. I use these tools to &lt;strong&gt;map the boundary between viable and non-viable ecological conditions&lt;/strong&gt;—the tipping points where tick populations either collapse or persist. By comparing these boundaries to patterns observed in real-world data, I can ask a deeper question: &lt;strong&gt;which combinations of parameters are not just viable, but actually relevant to the system I&amp;rsquo;m trying to model?&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Simulating Tick Life Cycles Across Landscapes</title>
       <link>http://yuvalbloch.com/research/tick-population-model/</link>
