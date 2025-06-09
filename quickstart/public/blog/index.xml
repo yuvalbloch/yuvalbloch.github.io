@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Acadmic Portfolio</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>http://yuvalbloch.com/blog/</link>
     <description>Recent content in Blog on Acadmic Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://yuvalbloch.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Unseen Architects: Exploring the Fundamental Properties of Life</title>
-      <link>http://localhost:1313/blog/post-1/</link>
+      <link>http://yuvalbloch.com/blog/post-1/</link>
       <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/post-1/</guid>
+      <guid>http://yuvalbloch.com/blog/post-1/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Before we dive into the fundamental principles that shape life, take a moment to pause and observe.&lt;/strong&gt;&lt;br&gt;&#xA;If you’re outside—or can step outside—lie beneath a tree and gaze up into its intricate canopy. Or look closely at the delicate structure of a flower, the organized chaos of an ant colony, or even the fractal spirals of a broccoli or cauliflower floret in your fridge. And if none of those are nearby, simply examine your fingerprint.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Why Life Science? Why This Blog? Why Now?</title>
-      <link>http://localhost:1313/blog/intro/</link>
+      <link>http://yuvalbloch.com/blog/intro/</link>
       <pubDate>Tue, 03 Jun 2025 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/intro/</guid>
+      <guid>http://yuvalbloch.com/blog/intro/</guid>
       <description>&lt;p&gt;As a child, Disney&amp;rsquo;s movie Fantasia captivated me, especially &amp;ldquo;The Rite of Spring.&amp;rdquo;* Igor Stravinsky, the composer, originally conceived this ballet as an expression of primitive life, celebrating the intricate beauty of ancient rituals. Disney, however, reinterpreted it more literally: a cosmic dance of Earth&amp;rsquo;s violent birth, the silent lightning strike of first life, and evolution&amp;rsquo;s slow crescendo into dinosaurs. That vision—&lt;strong&gt;life-blazing order out of chaos&lt;/strong&gt;—never let go.&lt;/p&gt;&#xA;&lt;p&gt;Today, with fear and hate spreading and unsettling sounds from the border kept as a constant reminder, I wrestle with doubt: &lt;em&gt;Is studying biology a luxury while the world burns? Should I trade the microscope for the megaphone?&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
