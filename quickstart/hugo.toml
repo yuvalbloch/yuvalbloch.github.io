@@ -2,6 +2,8 @@ baseURL = "http://yuvalbloch.com/"
 languageCode = "en-us"
 title = "Acadmic Portfolio"
 theme = "ananke"
+googleAnalytics = "G-G88CJRGNM1"
+
 
 [params]
   author = "yuval bloch"
