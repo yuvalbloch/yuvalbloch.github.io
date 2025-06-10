@@ -1,4 +1,4 @@
-baseURL = "http://yuvalbloch.com/"
+baseURL = "https://yuvalbloch.com/"
 languageCode = "en-us"
 title = "Acadmic Portfolio"
 theme = "ananke"
