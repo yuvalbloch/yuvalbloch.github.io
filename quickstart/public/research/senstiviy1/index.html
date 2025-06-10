@@ -66,7 +66,7 @@
   <meta itemprop="description" content="Using machine learning to map the ecological conditions under which tick populations persist or collapse, across a range of ecological and behavioral parameters.">
   <meta itemprop="datePublished" content="2025-06-09T10:00:00+03:00">
   <meta itemprop="dateModified" content="2025-06-09T10:00:00+03:00">
-  <meta itemprop="wordCount" content="816">
+  <meta itemprop="wordCount" content="823">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Finding Viable Parameter Spaces with Sensitivity Analysis">
   <meta name="twitter:description" content="Using machine learning to map the ecological conditions under which tick populations persist or collapse, across a range of ecological and behavioral parameters.">
@@ -316,17 +316,16 @@ Used to test how spatial patterns (e.g. land use maps) affect tick dynamics.<br>
 </div>
 <hr>
 <h3 id="what-im-looking-for">What I’m Looking For</h3>
-<p>The real world isn’t homogeneous. In field data, we see <strong>variation</strong>: some patches have ticks, others don’t. So I looked for parameter sets that produce:</p>
+<p>The real world is not homogeneous. Field data show <strong>variation</strong>—some areas have ticks, others do not—and this pattern holds across different values of <em>k</em>. To reflect that, I searched for parameter sets that produced:</p>
 <ul>
-<li><strong>Heterogeneous landscapes</strong> with partial occupancy</li>
-<li><strong>Moderate tick densities</strong> that avoid unrealistic overpopulation</li>
+<li>
+<p><strong>Heterogeneous landscapes</strong> with partial tick occupancy</p>
+</li>
+<li>
+<p><strong>Moderate tick densities</strong> that avoid unrealistic overpopulation</p>
+</li>
 </ul>
-<p>After testing many combinations, I found that:</p>
-<ul>
-<li><code>d₀ = 4</code></li>
-<li><code>d_c = 12</code></li>
-</ul>
-<p>…produced a good balance. Tick populations persist <strong>in some</strong> areas but remain ecologically realistic—closer to observed dynamics.</p>
+<p>After testing many combinations, I identified one that struck a good balance. Tick populations persisted <strong>in some</strong> areas while remaining ecologically realistic, closely aligning with observed dynamics.</p>
 <hr>
 <div>
   <figure style="flex: 1; min-width: 240px; max-width: 400px; text-align: center;">

@@ -134,17 +134,16 @@ Looking across the viable space, several patterns became clear:
 
 ### What I’m Looking For
 
-The real world isn’t homogeneous. In field data, we see **variation**: some patches have ticks, others don’t. So I looked for parameter sets that produce:
 
-- **Heterogeneous landscapes** with partial occupancy  
-- **Moderate tick densities** that avoid unrealistic overpopulation  
 
-After testing many combinations, I found that:
+The real world is not homogeneous. Field data show **variation**—some areas have ticks, others do not—and this pattern holds across different values of _k_. To reflect that, I searched for parameter sets that produced:
 
-- `d₀ = 4`  
-- `d_c = 12`  
+- **Heterogeneous landscapes** with partial tick occupancy
+    
+- **Moderate tick densities** that avoid unrealistic overpopulation
+    
 
-…produced a good balance. Tick populations persist **in some** areas but remain ecologically realistic—closer to observed dynamics.
+After testing many combinations, I identified one that struck a good balance. Tick populations persisted **in some** areas while remaining ecologically realistic, closely aligning with observed dynamics.
 
 ---
 
